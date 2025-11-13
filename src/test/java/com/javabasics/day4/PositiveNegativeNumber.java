@@ -1,0 +1,17 @@
+package com.javabasics.day4;
+
+public class PositiveNegativeNumber {
+    public static void main(String []args){
+
+        int num=10;
+        if(num > 0){
+            System.out.println("The given number "+num+" is a positive number");
+        }
+        else if(num <0){
+            System.out.println("The given number "+num+" is a negative number");
+        }
+        else if(num == 0){
+            System.out.println("The given number is a Zero");
+        }
+    }
+}
