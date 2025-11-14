@@ -28,8 +28,8 @@ public class StringMethods {
         //trim()- removes spaces right and left of the string
         String s3="   Wonderful   ";
         System.out.println(s3);
-    System.out.println(s3.trim());
-    System.out.println("Hello!");
+        System.out.println(s3.trim());
+        System.out.println("Hello!");
         System.out.println("Good Morning Sunshine!");
     }
 }
